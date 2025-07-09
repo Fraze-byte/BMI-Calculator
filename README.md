@@ -53,6 +53,15 @@ This project helped reinforce the following Python fundamentals:
 - Floating-point arithmetic and rounding (`round()`)
 - Clean CLI (Command-Line Interface) user experience
 
+## GUI Version (Tkinter)
+
+I've also created a GUI version of the BMI calculator using Python's Tkinter library as an extension of this project.
+
+- ⚠️ The GUI implementation (`Bmi_Gui.py`) was developed with external assistance, including AI-based guidance and online documentation.  
+- While I implemented and understood the core logic, the GUI framework and interface structure were built with help from various resources.  
+- The functionality remains identical to the command-line version — the same BMI calculation logic powers both.  
+- The GUI showcases how this project can evolve beyond the terminal, serving as a visual next step in its development.  
+- Although the logic behind the BMI calculations is my own, the GUI implementation does not fully represent my original code and is included as a learning reference.
 
 ## Author
 
