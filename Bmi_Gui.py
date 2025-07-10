@@ -1,4 +1,14 @@
-#CODE COPIED FROM CHATGPT , NOT MINE 
+# ---------------------------------------------
+# GUI Version of BMI Calculator (Tkinter)
+#
+# This script was developed with external help,
+# including AI-generated suggestions and online
+# resources, as part of learning how to build GUIs
+# in Python. While the logic was based on my own
+# CLI BMI calculator, the GUI structure and syntax
+# were adapted with assistance.
+# ---------------------------------------------
+
 import tkinter as tk
 from tkinter import messagebox
 
