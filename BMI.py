@@ -1,5 +1,5 @@
 # -----------------------------
-# BMI Calculator - Text-based version
+# BMI Calculator - Text-based version.
 # Allows users to input weight and height in multiple units, computes BMI, and categorizes it.
 # -----------------------------
 
